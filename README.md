@@ -1,2 +1,2 @@
-# Java-Technology
+# Java-Technology Practice
 Practice Lab
